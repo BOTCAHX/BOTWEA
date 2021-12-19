@@ -1621,9 +1621,9 @@ sendButLocation(from, `${menu}`,`𝘽𝙤𝙩 𝘽𝙮 @${dtod.split("@")[0]}`, 
 
 break
 case 'credit':
-   dtod = '916909137213'
-   dtod1 = '916909137213'
-   dtod2 = '919774340154'
+   dtod = '6282221792667'
+   dtod1 = '6282221792667'
+   dtod2 = '6282221792667'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
