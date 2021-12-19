@@ -962,9 +962,9 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/916909137213`,
+                "body": `wa.me/6282221792667`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/916909137213`,
+                "mediaUrl": `wa.me/6282221792667`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/916909137213`,
@@ -980,7 +980,7 @@ sendEphemeral: false,
 "body": `${ucapanWaktu}`,
 "mediaType": "2",
 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
-"mediaUrl": "https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A",
+"mediaUrl": "https://youtube.com/cnnel/UCvAo9TZ0Pw9vrJ_0WYRyO3A",
 "thumbnail": fs.readFileSync('./stik/thumb.jpeg'),
 "sourceUrl": "",
 },mentionedJid:[sender]}, quoted : fgif})
@@ -2012,7 +2012,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
-                      "title": `Xeon`,
+                      "title": `bot`,
  rows: [
                           {
                               "title": "Script",
