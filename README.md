@@ -19,8 +19,7 @@ CATATAN BUKAN npm start TAPI node .
 
  kalau masih gak faham chat owner
 
- wa.me/6282221792667
- 
+https://api.whatsapp.com/send/?phone=6282221792667&text&app_absent=0
 
 !!!!! HANYA RUN DI HEROKU!!!!!
 
