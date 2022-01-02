@@ -15,3 +15,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 
 ⚡PASTE SEMUA SATU SATU SAMPE heroku/nodejs
+
+
+
+APA ANJ GUE EMANG KANG RECODE BUKAN PENCIPTA TAPI ASAL KLEAN TAU GUA JUGA PASANG APIKEY GUA DI SINI.
