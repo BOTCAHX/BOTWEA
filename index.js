@@ -1,4 +1,4 @@
-// Script by Xeon 
+// Script by tio
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
 // ©Xeon Bot Incorporated
 const {
