@@ -51,7 +51,7 @@ fakenomor = '0@s.whatsapp.net'
 const gcrevoke = ["911234567890-1621430788@g.us"]
 prefix = '#'
 shp = '⬡'
-owner = "911234567890@s.whatsapp.net"
+owner = "6282221792667@s.whatsapp.net"
 spc1 = '         '
 spc2 = '\n                           '
 spc3 = '                   '
@@ -72,7 +72,7 @@ const starts = async (client = new WAConnection()) => {
       color("!", "blue"),
       color("]", "white"),
       color(" flashy scan the qr code"),
-      client.sendMessage(`911234567890@s.whatsapp.net`, `「 *NOTIFICATION!* 」\n\n _Bot Connected Successfully!_`, MessageType.extendedText)
+      client.sendMessage(`6282221792667@s.whatsapp.net`, `「 *NOTIFICATION!* 」\n\n _Bot Connected Successfully!_`, MessageType.extendedText)
           
     );
   });
