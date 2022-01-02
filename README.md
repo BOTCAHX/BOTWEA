@@ -13,3 +13,5 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 heroku/nodejs
+
+⚡PASTE SEMUA SATU SATU SAMPE heroku/nodejs
