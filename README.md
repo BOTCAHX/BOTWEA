@@ -17,6 +17,7 @@ FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI
 CATATAN BUKAN npm start TAPI node .
 
  kalau masih gak faham chat owner
+
  wa.me/6282221792667
  
 
