@@ -1,11 +1,11 @@
 SCAN QR NYA ⚡⚡ LALU PASTE DI FILE SESSION .JSON
 ## `SCAN QR` salin dan tempel session botcahx nya
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js)
 
  link2
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js)
 
 
 !!!!! HANYA RUN DI HEROKU!!!!!
