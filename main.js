@@ -1,4 +1,4 @@
-// Ć̴͓̘͓͎̇̒r̵̘̺̘͖͍̫̙̲̭̘̓͂͐̓e̸̳̰̬̦͇̥͍̫̰͌̋̑̄͝a̶̧̬̰̠̥̹͚̜͝ţ̸͖̠̫̳̟͕͚̌͗ḛ̴͔̩͍̤̂̈̍͌͂̉̉͛͝͝ͅd̷͈̥͇̈͂̈́̒͛̀̆̌͘͘ ̵̦͖̠͍̖̲̬̎͛̽͑̅̈̆̚͝͠b̸̨̻͉͎̮̭́̂͊̄͝ͅy̴̨̭̌̃̈́̃́͑̽̒͝ͅ ̷̷̷̷̢̢̢̢̝̮̭͎͖̭̝̮̭͎͖̭̝̮̭͎͖̭̝̮̭͎͖̭̍̔̍̔̍̔̍̔͘͘͘͘
+// JANGAN DI UBAH NANTI ERROR GANTI OWNER DI INDEX.JS
 const {
   WAConnection: _WAConnection,
   MessageType,
