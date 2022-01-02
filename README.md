@@ -1,5 +1,5 @@
 SCAN QR NYA ⚡⚡ LALU PASTE DI FILE SESSION .JSON
-## `SCAN QR`
+## `SCAN QR` INI GUA MINJEM QR ORANG KARENA GUA NOOB
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
 
