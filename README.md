@@ -6,13 +6,13 @@ SCAN QR NYA ⚡⚡ LALU PASTE DI FILE SESSION .JSON
 ini buildpack nya bang paste ya jangan lupa mwehehehe
 
 
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+>   https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+>   https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+>   https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
-heroku/nodejs
+>   heroku/nodejs
 
 ⚡PASTE SEMUA SATU SATU SAMPE heroku/nodejs
 
