@@ -1,12 +1,24 @@
 SCAN QR NYA ⚡⚡ LALU PASTE DI FILE SESSION .JSON
 ## `SCAN QR` salin dan tempel session botcahx nya
 
+LINK 1
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js)
 
- link2
+ LINK 2
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js)
 
+LINK 3
+
+!!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.
+> https://github.com/BOTCAHX/SCANMODULE
+
+>FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI 
+CATATAN BUKAN npm start TAPI node .
+
+ kalau masih gak faham chat owner
+ wa.me/6282221792667
+ 
 
 !!!!! HANYA RUN DI HEROKU!!!!!
 
