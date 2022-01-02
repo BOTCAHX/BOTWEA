@@ -1,6 +1,6 @@
 // Script by tio
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Xeon Bot Incorporated
+// ©ROT WKWK
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -1612,9 +1612,9 @@ ${readmore}
 > ⬡ ${prefix}neko
 > ⬡ ${prefix}trapnime
 
-𝗡𝗼𝘁𝗲 :jANGAN SPAM BOT 
-THANKS TO
-TIO PRM
+𝗡𝗼𝘁𝗲 :JANGAN SPAM BOT 
+THANKS TO:
+TIO PERMANA
 YANZ BOT
 VERDI
 RYZEN BOT
