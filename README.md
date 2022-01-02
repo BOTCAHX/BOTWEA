@@ -53,5 +53,5 @@ MY TEAM RECODE \\
 >RYZEN BOTZ//
 
 
->Gua Tio recoding ini semalaman cuwk masa gak di donasi wkwk
+//Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk
 
