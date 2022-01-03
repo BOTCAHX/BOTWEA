@@ -77,13 +77,13 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 
 `MY TEAM RECODE 👨‍💻`
 
-`> TIO PERMANA
+`TIO PERMANA'
 
->VERDI BOTZ
+`VERDI BOTZ`
 
->YAN BOTZ
+`YAN BOTZ`
 
->RYZEN BOTZ`
+`RYZEN BOTZ`
 
 
 `⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi buat lu yg hilangin credits ini semalaman cuwk masa Di ilangin Dasar anak haram⚠️`
