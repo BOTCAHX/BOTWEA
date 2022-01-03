@@ -85,7 +85,7 @@ MY TEAM RECODE 👨‍💻
 >RYZEN BOTZ👨‍💻
 
 
-```⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️```
+⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️
 
 - [WHATSAPP](http://wa.me/6282221792667)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL)
