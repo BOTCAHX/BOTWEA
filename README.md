@@ -14,44 +14,47 @@ LINK 3
 !!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.
  https://github.com/BOTCAHX/SCANMODULE
 
-//FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI 
-CATATAN BUKAN npm start TAPI node .
+👨‍💻FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI 
+CqATATAN BUKAN npm start TAPI node .
 
- kalau masih gak faham chat owner
+ kalau masih gak faham chat owner👨‍💻
 
 https://api.whatsapp.com/send/?phone=6282221792667&text&app_absent=0
 
 
-//
+⬇️⬇️⬇️⬇️
 
 !!!!! HANYA RUN DI HEROKU!!!!!
 
-ini buildpack nya bang paste ya jangan lupa mwehehehe
+Ini buildpack nya bang paste ya jangan lupa mwehehehe
 
 
->   https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+>-   https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
->   https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+>-   https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
->   https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+>-   https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
->   heroku/nodejs
+>-   heroku/nodejs
 
 
 
-//⚡PASTE SEMUA SATU SATU SAMPE heroku/nodejs
+⚡PASTE SEMUA SATU SATU SAMPAI heroku/nodejs⚠️
 
-////
 
 >KALO MAU RUN DI HEROKU FORK DLU GANTI OWNER TAPI JANGAN HILANGKAN CREDIT KARENA GANTI APIKEY ITU SUSAH ANK NGENTOD
 >SETELAH FORK LU CONECT GITHUB LU DAN AKTIFKAN CLI DAN AUTO DEPLOY JANGAN LUPA BUILDPACK NYA KALO LUPA LU GAK BISA BUAT STIKER
-//
-MY TEAM RECODE \\
-> BOTCAHBOTz//
->VERDI BOTZ//
->YAN BOTZ//
->RYZEN BOTZ//
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+MY TEAM RECODE 👨‍💻
+
+> BOTCAHBOTz👨‍💻
+
+>VERDI BOTZ👨‍💻
+
+>YAN BOTZ👨‍💻
+
+>RYZEN BOTZ👨‍💻
 
 
-//Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk
+⚠️⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️⚠️
 
