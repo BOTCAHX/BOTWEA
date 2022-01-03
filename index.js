@@ -1612,15 +1612,8 @@ ${readmore}
 > ⬡ ${prefix}neko
 > ⬡ ${prefix}trapnime
 
-𝗡𝗼𝘁𝗲 :JANGAN SPAM BOT 
-THANKS TO:
-TIO PERMANA
-YANZ BOT
-VERDI
-RYZEN BOT
-Horny = Bonks💥
-Just Learn to Make Bots 🐶
- 
+𝗡𝗼𝘁𝗲 :JANGAN SPAM BOT!!
+@TIO PERMANA
 𝘼𝙈 𝙉𝙊𝙏 𝘼 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙀𝙍 𝘽𝙍𝙊
 `
 sendButLocation(from, `${menu}`,`𝘽𝙤𝙩 𝘽𝙮 @${dtod.split("@")[0]}`, {jpegThumbnail:iye}, [{buttonId:`command`,buttonText:{displayText:'LIST MENU'},type:1},{buttonId:`credit`,buttonText:{displayText:'THANKS TO'},type:1},{buttonId:`script`,buttonText:{displayText:'SCRIPT'},type:1}], {contextInfo: { mentionedJid: [ptod,stod]}})
@@ -1628,9 +1621,9 @@ sendButLocation(from, `${menu}`,`𝘽𝙤𝙩 𝘽𝙮 @${dtod.split("@")[0]}`, 
 break
 case 'credit':
    dtod = '6282221792667'
-   dtod1 = '6283869803330'
-   dtod2 = '6281395861695'
-   dtod3 = '6287722212520'
+   dtod1 = '628'
+   dtod2 = '628'
+   dtod3 = '628'
    dtod4 ='0'
    var yez = `
    [ 𝐶𝑟𝑒𝑑𝑖𝑡𝑠 𝐵𝑦 ] :
