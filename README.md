@@ -32,6 +32,8 @@ LINK 3⬇️⬇️
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/yTEAM-DOGEBOT-update)
 
+## `Saran Gua Pc/Laptop Buat scan Nya karena sering eror.`
+
 
 ## `CHANGE DYNO`
 
