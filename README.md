@@ -74,3 +74,11 @@ MY TEAM RECODE 👨‍💻
 
 ⚠️⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️⚠️
 
+- [WHATSAPP](http://wa.me/6282221792667)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/KTmU4Hoj437BX4fWpXTnpF)
+
+
+## 🙏 Special Thanks to
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
+
+
