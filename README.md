@@ -27,7 +27,7 @@ LINK 1⬇️⬇️
 
 LINK 3⬇️⬇️
 
-!!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.
+```!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.```
  https://github.com/BOTCAHX/SCANMODULE
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/yTEAM-DOGEBOT-update)
@@ -68,11 +68,11 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 
 
 
-⚡PASTE SEMUA SATU SATU SAMPAI heroku/nodejs⚠️
+```⚡PASTE SEMUA SATU SATU SAMPAI heroku/nodejs⚠️```
 
 
->KALO MAU RUN DI HEROKU FORK DLU GANTI OWNER TAPI JANGAN HILANGKAN CREDIT KARENA GANTI APIKEY ITU SUSAH ANK NGENTOD
->SETELAH FORK LU CONECT GITHUB LU DAN AKTIFKAN CLI DAN AUTO DEPLOY JANGAN LUPA BUILDPACK NYA KALO LUPA LU GAK BISA BUAT STIKER
+```>KALO MAU RUN DI HEROKU FORK DLU GANTI OWNER TAPI JANGAN HILANGKAN CREDIT KARENA GANTI APIKEY ITU SUSAH ANK NGENTOD
+>SETELAH FORK LU CONECT GITHUB LU DAN AKTIFKAN CLI DAN AUTO DEPLOY JANGAN LUPA BUILDPACK NYA KALO LUPA LU GAK BISA BUAT STIKER```
 🗿
 MY TEAM RECODE 👨‍💻
 
@@ -85,10 +85,10 @@ MY TEAM RECODE 👨‍💻
 >RYZEN BOTZ👨‍💻
 
 
-⚠️⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️⚠️
+```⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️```
 
 - [WHATSAPP](http://wa.me/6282221792667)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/KTmU4Hoj437BX4fWpXTnpF)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL)
 
 
 ## 🙏 Special Thanks to
