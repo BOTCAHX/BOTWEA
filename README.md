@@ -35,6 +35,9 @@ LINK 3⬇️⬇️
 ## `Saran Gua Pc/Laptop Buat scan Nya karena sering eror.`
 
 
+## `[![Run on Repl.it]LAPTOP/KOMPUTER(https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js `
+
+
 ## `CHANGE DYNO`
 
 Off in web nya
