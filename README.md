@@ -13,7 +13,7 @@
 <a href="https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  
 </div>
-SCAN QR NYA⚠️ LALU PASTE DI FILE SESSION
+SCAN QR NYA LALU PASTE DI FILE SESSION
 
 > `SCAN QR` salin dan tempel session botcahx nya
 
@@ -43,11 +43,11 @@ Off in web nya
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-👨‍💻FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI 
+```FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI ```
 CATATAN!
- ⚠️BUKAN npm start TAPI node .⚠️
+ ```BUKAN npm start TAPI node .```
 
- kalau masih gak faham chat owner👨‍💻
+ ```Kalau masih gak faham chat owner```
 
 https://api.whatsapp.com/send/?phone=6282221792667&text&app_absent=0
 
