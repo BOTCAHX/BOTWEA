@@ -1,15 +1,15 @@
 SCAN QR NYA ⚡⚡ LALU PASTE DI FILE SESSION .JSON
 ## `SCAN QR` salin dan tempel session botcahx nya
 
-LINK 1
+LINK 1⬇️⬇️
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js)
 
- LINK 2
+ LINK 2⬇️⬇️
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3?v=1)
 
-LINK 3
+LINK 3⬇️⬇️
 
 !!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.
  https://github.com/BOTCAHX/SCANMODULE
@@ -45,7 +45,7 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 
 >KALO MAU RUN DI HEROKU FORK DLU GANTI OWNER TAPI JANGAN HILANGKAN CREDIT KARENA GANTI APIKEY ITU SUSAH ANK NGENTOD
 >SETELAH FORK LU CONECT GITHUB LU DAN AKTIFKAN CLI DAN AUTO DEPLOY JANGAN LUPA BUILDPACK NYA KALO LUPA LU GAK BISA BUAT STIKER
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+🗿
 MY TEAM RECODE 👨‍💻
 
 > BOTCAHBOTz👨‍💻
