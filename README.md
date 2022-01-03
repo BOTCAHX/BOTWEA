@@ -77,7 +77,7 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 
 `MY TEAM RECODE 👨‍💻`
 
-`TIO PERMANA'
+`TIO PERMANA`
 
 `VERDI BOTZ`
 
