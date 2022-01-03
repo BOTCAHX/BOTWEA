@@ -40,7 +40,7 @@ Off in web nya
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
 ```FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI ```
