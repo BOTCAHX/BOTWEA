@@ -13,8 +13,9 @@
 <a href="https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  
 </div>
-SCAN QR NYA ⚡⚡ LALU PASTE DI FILE SESSION .JSON
-## `SCAN QR` salin dan tempel session botcahx nya
+SCAN QR NYA⚠️ LALU PASTE DI FILE SESSION
+
+> `SCAN QR` salin dan tempel session botcahx nya
 
 LINK 1⬇️⬇️
 
