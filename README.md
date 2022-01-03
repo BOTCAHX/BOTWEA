@@ -99,21 +99,19 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 ## 🙏 Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
   
-  >Dilarang Ambil tanpa izin itu namanya nyuri.
-©copyright Tio 2022
->masih belajar coding jdi maaf klo error
-Scan nya.
+  ```Dilarang Ambil tanpa izin itu namanya nyuri-©copyright Tio 2022```
+```Masih belajar coding jdi maaf klo error Scan nya.```
 
-buka replit terus import github dengan link ini.
+```Buka replit terus import github dengan link ini.```
 https://replit.com/github/BOTCAHX/SCANMODULE
 
 
->©2022
+```>©2022
 Ini adalah modul scan kode QR (ambil session.json)dari BOTCAHBOTz 
 Owner:Tio Permana
-Creator:Tio Permana
+Creator:Tio Permana```
 
-Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung.
+```Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung.```
 
 
 
