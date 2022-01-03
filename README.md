@@ -32,10 +32,9 @@ LINK 3⬇️⬇️
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/yTEAM-DOGEBOT-update)
 
-## `Saran Gua Pc/Laptop Buat scan Nya karena sering eror.`
+## `Saran Gua Pc/Laptop Buat scan Nya karena sering error `
 
-
-## `[![Run on Repl.it]LAPTOP/KOMPUTER(https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js `
+[![Run on Repl.it]LAPTOP/KOMPUTER(https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/SCANMODULE-3#index.js 
 
 
 ## `CHANGE DYNO`
