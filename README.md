@@ -43,16 +43,15 @@ https://api.whatsapp.com/send/?phone=6282221792667&text&app_absent=0
 
 !!!!! HANYA RUN DI HEROKU!!!!!
 
+# `ADD BUILDPACK`
+
+```
+> heroku/nodejs
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+> https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+```
 Ini buildpack nya bang paste ya jangan lupa mwehehehe
-
-
->-   https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-
->-   https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
->-   https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-
->-   heroku/nodejs
 
 
 
