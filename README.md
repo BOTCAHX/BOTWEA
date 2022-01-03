@@ -30,6 +30,19 @@ LINK 3⬇️⬇️
 !!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.
  https://github.com/BOTCAHX/SCANMODULE
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/yTEAM-DOGEBOT-update)
+
+
+## `CHANGE DYNO`
+
+Off in web nya
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+</p>
+
 👨‍💻FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI 
 CATATAN!
  ⚠️BUKAN npm start TAPI node .⚠️
