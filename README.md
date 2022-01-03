@@ -15,7 +15,8 @@ LINK 3
  https://github.com/BOTCAHX/SCANMODULE
 
 👨‍💻FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI 
-CqATATAN BUKAN npm start TAPI node .
+CATATAN!
+ ⚠️BUKAN npm start TAPI node .⚠️
 
  kalau masih gak faham chat owner👨‍💻
 
