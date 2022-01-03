@@ -43,8 +43,12 @@ Off in web nya
   <a href="https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-```FORK TERLEBIH DAHULU LALU DEPLOY KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI ```
-CATATAN!
+```FORK TERLEBIH DAHULU LALU EDIT OWNER DI INDEX.JS LANJUT SCAN KE REPLIT SETELAH ITU SCAN KODE DAN SELESAI ```
+  
+  
+  
+ 
+~CATATAN!~
  ```BUKAN npm start TAPI node .```
 
  ```Kalau masih gak faham chat owner```
