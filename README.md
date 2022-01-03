@@ -76,13 +76,13 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 🗿
 MY TEAM RECODE 👨‍💻
 
-> BOTCAHBOTz👨‍💻
+> TIO PERMANA
 
->VERDI BOTZ👨‍💻
+>VERDI BOTZ
 
->YAN BOTZ👨‍💻
+>YAN BOTZ
 
->RYZEN BOTZ👨‍💻
+>RYZEN BOTZ
 
 
 ⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi ini semalaman cuwk masa gak di donasi wkwk⚠️
