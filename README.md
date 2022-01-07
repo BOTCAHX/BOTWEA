@@ -23,7 +23,7 @@ LINK 1⬇️⬇️
 
  LINK 2⬇️⬇️
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)(]https://replit.com/@tioclkp02/ScanQr-by-Tio#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio#index.js)
 
 LINK 3⬇️⬇️
 
