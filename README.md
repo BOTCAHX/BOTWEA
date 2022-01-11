@@ -19,11 +19,11 @@ SCAN QR NYA LALU PASTE DI FILE SESSION
 
 LINK 1⬇️⬇️
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio-1#index.js)
 
  LINK 2⬇️⬇️
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio-1#index.js)
 
 LINK 3⬇️⬇️
 
@@ -35,7 +35,7 @@ LINK 3⬇️⬇️
 
 ## `Saran Gua Pc/Laptop Buat scan Nya karena sering error `
 
-[![Run PC/LAPTOP on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio#index.js)
+[![Run PC/LAPTOP on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio-1#index.js)
 
 
 ## `CHANGE DYNO`
