@@ -379,7 +379,7 @@ const checkRegisteredUser = (sender) => {
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
 const daftar1 = `Hi ${pushname} ${ucapanWaktu} \n\nBefore Using the Bot Verify First `
-       const daftar2 = '```Click the button below to verify bro or type 8473\n𝐃𝐨𝐠𝐞 𝐁𝐨𝐭```'
+       const daftar2 = '```Click the button below to verify bro or type 8473\nBOTCAH```'
        const daftar3 = [
           {
             buttonId: `verify`,
@@ -947,7 +947,7 @@ xeon.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `Whatsapp-BOT\n𝐃𝐨𝐠𝐞 𝐁𝐨𝐭. (@nnda.krnwn_) •Instagram photos and Videos`,
+                "title": `Whatsapp-BOT\nBOTCAH. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
@@ -1408,7 +1408,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
        stst = await xeon.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `
-🐶 Hi @${sender.split("@")[0]}
+  Hi @${sender.split("@")[0]}
 
  𝐆𝐫𝐨𝐮𝐩 𝐂𝐡𝐚𝐭𝐬 : ${groups.length} 
  𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐂𝐡𝐚𝐭𝐬 : ${privat.length}
@@ -2007,14 +2007,14 @@ case 'command':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsg = {
  buttonText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
- footerText: '𝐃𝐨𝐠𝐞 𝐁𝐨𝐭',
+ footerText: 'BOTCAH',
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
                       "title": `bot`,
  rows: [
                           {
-                              "title": "Script",
+                              "title": "Sc",
                               "rowId": ""
                            },
                            {
@@ -2030,7 +2030,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                               "rowId": ""
                            },
                            {
-                              "title": "Rentbot",
+                              "title": "Jadibot",
                               "rowId": ""
                            },
                            {
@@ -2216,7 +2216,7 @@ menu = `シ︎𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶シ︎
 ㋛${prefix}delimage <image name>
  
 ㋛${prefix}imagelist`
-sendButMessage(from, menu, `𝐃𝐨𝐠𝐞 𝐁𝐨𝐭`, [
+sendButMessage(from, menu, `BOTCAH`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2328,7 +2328,7 @@ menu = `シ︎𝘖𝘵𝘩𝘦𝘳 𝘔𝘦𝘯𝘶シ︎
 
 ㋛${prefix}gimage <query>
 `
-sendButMessage(from, menu, ` BOT`, [
+sendButMessage(from, menu, ` BOTCAH`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2416,7 +2416,7 @@ case 'catalog':
         },
         "businessOwnerJid": sender
       },
-      "footerText": " BOT"
+      "footerText": " BOTCAH"
     }
   }, {quoted: freply})
   xeon.relayWAMessage(list, {waitForAck: true})
