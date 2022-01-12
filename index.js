@@ -318,7 +318,7 @@ chatss.map( async ({ jid }) => {
 if (readPc === false) return
 await xeon.chatRead(jid)
 })
-// 𝘼𝙪𝙩𝙤 𝙑𝙣:𝙫
+// 𝘼𝙪𝙩𝙤 𝙑𝙣
 if (autovn) {
 	if (autovn === false) return
 await xeon.updatePresence(from, Presence.recording)
@@ -379,7 +379,7 @@ const checkRegisteredUser = (sender) => {
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
 const daftar1 = `Hi ${pushname} ${ucapanWaktu} \n\nBefore Using the Bot Verify First `
-       const daftar2 = '```Click the button below to verify bro or type 8473\nBOTCAH```'
+       const daftar2 = '```Click Tombol di bawah ini atau ketik kode 8473\nBOTCAH```'
        const daftar3 = [
           {
             buttonId: `verify`,
@@ -420,8 +420,8 @@ const timeWib = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
 cmhit.push(command)
     //MESS
     mess = {
-      wait: "𝙒𝙖𝙞𝙩 𝘼 𝙈𝙞𝙣𝙪𝙩𝙚 シ",
-      success: "Success シ︎",
+      wait: "𝙒𝙖𝙞𝙩 𝘼 𝙈𝙞𝙣𝙪𝙩𝙚...",
+      success: "Success...",
       wrongFormat: "Wrong format, try again in the menu",
       error: {
         stick: "not that sticker :v",
@@ -1242,7 +1242,7 @@ async function sendFileFromUrl(from, url, caption, msg, men) {
       xeon.copyNForward(m.chat, msg);
     }
 
-    if (isGroup && autojoin == true) {
+    if (isGroup && autojoin == false) {
       if (budy.includes("://chat.whatsapp.com/")) {
         console.log(
           color("[AUTO-JOIN]", "red"),
@@ -1306,7 +1306,7 @@ async function sendFileFromUrl(from, url, caption, msg, men) {
       let _uptime = process.uptime() * 1000;
       let uptime = clockString(_uptime);
 
-await xeon.setStatus(`Bot Mode On Since ${uptime}`).catch((_) => _);
+await xeon.setStatus(`Bot ini Online sejak ${uptime}`).catch((_) => _);
       settingstatus = new Date() * 1;
     }
     if (!mek.key.fromMe && banChats === true) return;
@@ -1325,7 +1325,7 @@ const serialUser = createSerial(18)
 	        fs.writeFileSync('./database/user/registered.json', JSON.stringify(_registered))
 	        addRegisteredUser(sender, serialUser)
 	         const anuu = `「 *USER REGISTRATION* 」
-*Thank you for registering in the BOTCAH Database*
+*Terimakasih Telah Mendaftar BOTCAH Database*
 
 *☂︎ Name :* ${pushname}
 *☂︎ API :* +${sender.split('@')[0]}
@@ -1336,7 +1336,7 @@ const serialUser = createSerial(18)
          haitod = await getBuffer(`http://hadi-api.herokuapp.com/api/card/verify?nama=${encodeURI(pushname)}&member=${_registered.length}&seri=${serialUser}&pp=${ppimg}&bg=${ppimg}`)
              buttons = [{buttonId: `menu`,buttonText:{displayText: `</️MENU`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(haitod, "imageMessage", { thumbnail: haitod, })).imageMessage
-              buttonsMessage = {footerText:'SALAM DARI TASIKMALAYA', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'created by BOTCAHBOTz', imageMessage: imageMsg,
               contentText:`${anuu}`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fkontak})
               xeon.relayWAMessage(prep)
@@ -1360,7 +1360,7 @@ groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-       txtt =`Hi ${pushname} 👋\n\nIF YOU ARE USING MOD WHATSAPP & BUTTONS DOESNT SHOW, TYPE #allmenu`
+       txtt =`Hi ${pushname} 👋\n\nJika Kamu Pengguna Whatsapp Mod gunakan Command #allmenu`
 
                buttons = [{buttonId:`allmenu`, 
                buttonText:{displayText: 'MENU'},type:1},
@@ -1436,7 +1436,6 @@ ${readmore}
 > ⬡ ${prefix}getcaption
 > ⬡ ${prefix}bugcatalog
 > ⬡ ${prefix}buggc id grup
-> ⬡ ${prefix}okvirtex
 > ⬡ ${prefix}on
 > ⬡ ${prefix}status
 > ⬡ ${prefix}setthumb
@@ -1712,7 +1711,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 case 'auu': // by xeon
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
        reply('No Sis')
-        sendButMessage(from, `Hi ${pushname} 🐶`, `What do you want to answer??`, [
+        sendButMessage(from, `Hi ${pushname} `, `What do you want to answer??`, [
           {
             buttonId: `oklah`,
             buttonText: {
@@ -1781,7 +1780,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                await sleep(1000)
                haibg =`Hi ${pushname}\nThats my owner, What do you want to know about??`
                buttons = [{buttonId: `mygithub`,buttonText:{displayText: 'SC BOT'},type:1},{buttonId:`iggw`,buttonText:{displayText:'PM ON WHATSAPP'},type:1}]
-               buttonsMessage = { contentText: `${haibg}`, footerText: `Created By ${fakeyoi} 🌿`, buttons: buttons, headerType: 1 }
+               buttonsMessage = { contentText: `${haibg}`, footerText: `Created By ${fakeyoi} `, buttons: buttons, headerType: 1 }
                prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{})
                xeon.relayWAMessage(prep)
                break     
@@ -2341,9 +2340,9 @@ case 'makermenu':
 menu = `シ︎𝘔𝘢𝘬𝘦𝘳 𝘔𝘦𝘯𝘶シ︎
 ㋛${prefix}𝙨𝙩𝙞𝙘𝙠𝙚𝙧
 
-㋛${prefix}𝙨𝙬𝙢 <𝙖𝙪𝙩𝙝𝙤𝙧|𝙥𝙖𝙘𝙠𝙣𝙖𝙢𝙚>
+㋛${prefix}swm <author|packname>
 
-㋛${prefix}𝙩𝙖𝙠𝙚 <𝙖𝙪𝙩𝙝𝙤𝙧|𝙥𝙖𝙘𝙠𝙣𝙖𝙢𝙚>
+㋛${prefix}𝙩𝙖𝙠𝙚 <author|packname>
 
 ㋛${prefix}fdeface
 
@@ -6469,7 +6468,7 @@ xeon.sendMessage(from, stdout, text, term)
       );
     }
    } catch (e) {
-    e = String(e);// Fixed In Consolog 🌿
+    e = String(e);// Fixed In Consolog
     if (!e.includes("this.isZero") && !e.includes("jid") && !e.includes("Cannot read property 'fromMe' of undefined") && !e.includes("Cannot use 'in' operator to search for 'text' in undefined") && !e.includes("Cannot read property 'key' of undefined") && !e.includes("Cannot use 'in' operator to search for 'text' in undefined")) {
       console.log("Message : %s", color(e, "yellow"));
     }
