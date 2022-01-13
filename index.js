@@ -139,9 +139,9 @@ nopref = true
 numbernye = '0'
 autoketik = false;
 prefixStatus = false;
-targetpc = "6285828764046"; 
-owner = "6285828764046"; 
-fakeyoi = "ROZI"; 
+targetpc = "6282221792667"; 
+owner = "6282221792667"; 
+fakeyoi = "Tio"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -150,7 +150,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@6285828764046"; 
+nomorowner1 = "@6282221792667"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -1410,15 +1410,15 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
        menu = `
   Hi @${sender.split("@")[0]}
 
- 𝐆𝐫𝐨𝐮𝐩 𝐂𝐡𝐚𝐭𝐬 : ${groups.length} 
- 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐂𝐡𝐚𝐭𝐬 : ${privat.length}
-︎ 𝐓𝐨𝐭𝐚𝐥 𝐂𝐡𝐚𝐭𝐬 : ${totalChat.length}
-︎ 𝐒𝐩𝐞𝐞𝐝 : ${latensie.toFixed(4)} _Second_
- 𝐀𝐜𝐭𝐢𝐯𝐞 : ${runtime(process.uptime())}
- 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : ${os.platform()}
+ Grup Chat : ${groups.length} 
+ Private Chat : ${privat.length}
+︎ Total Chat : ${totalChat.length}
+︎ Speed : ${latensie.toFixed(4)} _Second_
+ Active : ${runtime(process.uptime())}
+ Platform : ${os.platform()}
 ${readmore}
  
- ⬣ 𝙊𝙒𝙉𝙀𝙍 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+ 𝙊𝙒𝙉𝙀𝙍 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}off
 > ⬡ ${prefix}isbaileys
 > ⬡ ${prefix}banchat
@@ -1460,7 +1460,7 @@ ${readmore}
   > ⬡ ${prefix}bc
 
 
- ⬣ 𝙂𝙍𝙊𝙐𝙋 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+  𝙂𝙍𝙊𝙐𝙋 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}grup 
 > ⬡ ${prefix}promote 
 > ⬡ ${prefix}demote 
@@ -1485,7 +1485,7 @@ ${readmore}
 > ⬡ ${prefix}group [open/close(button)]
  
 
- ⬣ 𝙈𝘼𝙆𝙄𝙉𝙂 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+ 𝙈𝘼𝙆𝙄𝙉𝙂 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}sticker
 > ⬡ ${prefix}swm author|packname
 > ⬡ ${prefix}take author|packname
@@ -1521,7 +1521,7 @@ ${readmore}
 > ⬡ ${prefix}pubglogo text|text
 
  
- ⬣ 𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+ 𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}tomp3
 > ⬡ ${prefix}tomp4
 > ⬡ ${prefix}toimg
@@ -1531,7 +1531,7 @@ ${readmore}
 > ⬡ ${prefix}tourl
 
 
- ⬣ 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+  𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}play query
 > ⬡ ${prefix}play2 query
 > ⬡ ${prefix}playv2 link
@@ -1547,14 +1547,14 @@ ${readmore}
 > ⬡ ${prefix}ytmp4 link
  
 
- ⬣ 𝙏𝘼𝙂 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+  𝙏𝘼𝙂 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}hidetag
 > ⬡ ${prefix}contag
 > ⬡ ${prefix}sticktag
 > ⬡ ${prefix}totag
  
 
- ⬣ 𝙐𝙋𝙎𝙒 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+  𝙐𝙋𝙎𝙒 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}upswtxt
 > ⬡ ${prefix}upswlocation
 > ⬡ ${prefix}upswsticker
@@ -1563,7 +1563,7 @@ ${readmore}
 > ⬡ ${prefix}upswgif
  
 
- ⬣ 𝙁𝙐𝙉 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+  𝙁𝙐𝙉 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}slander
 > ⬡ ${prefix}slanderpc
 > ⬡ ${prefix}contact 0|p
@@ -1590,7 +1590,7 @@ ${readmore}
 > ⬡ ${prefix}pretty
 
 
- ⬣ 𝙉𝙎𝙁𝙒 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+ 𝙉𝙎𝙁𝙒 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 > ⬡ ${prefix}yuri
 > ⬡ ${prefix}hentai
 > ⬡ ${prefix}anal
@@ -1612,7 +1612,7 @@ ${readmore}
 > ⬡ ${prefix}trapnime
 
 𝗡𝗼𝘁𝗲 :JANGAN SPAM BOT!!
-@TIO PERMANA
+```@TIO PERMANA```
 `
 sendButLocation(from, `${menu}`,`𝘽𝙤𝙩 𝘽𝙮 @${dtod.split("@")[0]}`, {jpegThumbnail:iye}, [{buttonId:`command`,buttonText:{displayText:'LIST MENU'},type:1},{buttonId:`credit`,buttonText:{displayText:'THANKS TO'},type:1},{buttonId:`script`,buttonText:{displayText:'SCRIPT'},type:1}], {contextInfo: { mentionedJid: [ptod,stod]}})
 
@@ -1626,10 +1626,10 @@ case 'credit':
    var yez = `
    [ 𝐶𝑟𝑒𝑑𝑖𝑡𝑠 𝐵𝑦 ] :
    
-  : wa.me/${dtod1.split("@")[0]}
-  : wa.me/${dtod.split('@')[0]}
-  : wa.me/${dtod2.split('@')[0]}
-  : wa.me/${dtod3.split('@')[0]}
+  ⬡: wa.me/${dtod1.split("@")[0]}
+  ⬡: wa.me/${dtod.split('@')[0]}
+  ⬡: wa.me/${dtod2.split('@')[0]}
+  ⬡: wa.me/${dtod3.split('@')[0]}
  `
      credit = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 1000, "message": `${yez}`, "footerText": "hehe", "thumbnail": iye, "surface": 'CATALOG'}}, {quoted: mek})
             xeon.relayWAMessage(credit)
@@ -1708,7 +1708,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                 dapuhy = await getBuffer(`https://dapuhy-api.herokuapp.com/api/randomimage/quotesyt?apikey=${dapapi}`)
                 xeon.sendMessage(from, dapuhy, image, {quoted: mek})        
                 break    
-case 'auu': // by xeon
+case 'auu': //tio
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
        reply('No Sis')
         sendButMessage(from, `Hi ${pushname} `, `What do you want to answer??`, [
@@ -1992,7 +1992,7 @@ let ini_list = []
 for (let i of nomorowner1) {
 const vname = xeon.contacts[i] != undefined ? xeon.contacts[i].vname || xeon.contacts[i].notify : undefined
 ini_list.push({
-"displayName": 'Xeon',
+"displayName": 'Tio',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${xeon.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 })
 }
@@ -2067,7 +2067,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 xeon.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
 break
 case 'downloadmenu':
-menu = `シ︎𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶シ︎
+menu = `𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶
 シ${prefix}𝙮𝙩𝙢𝙥4 𝙡𝙞𝙣𝙠
 
 シ${prefix}𝙮𝙩𝙢𝙥3 𝙡𝙞𝙣𝙠
@@ -2088,7 +2088,7 @@ sendButMessage(from, menu, `BOT`, [
           },]);
 break
 case 'groupmenu':
-menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎シ
+menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎
 シ${prefix}grup [3 Button]
 
 シ${prefix}promote <reply chat member>
@@ -2208,13 +2208,13 @@ menu = `シ︎𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶シ︎
  
 シ${prefix}delsticker <sticker name>
  
-㋛${prefix}stickerlist
+シ${prefix}stickerlist
  
-㋛${prefix}addimage <reply image with name>
+シ${prefix}addimage <reply image with name>
  
-㋛${prefix}delimage <image name>
+シ${prefix}delimage <image name>
  
-㋛${prefix}imagelist`
+シ${prefix}imagelist`
 sendButMessage(from, menu, `BOTCAH`, [
           {
             buttonId: `command`,
@@ -2226,17 +2226,17 @@ sendButMessage(from, menu, `BOTCAH`, [
 break
 case 'upswmenu':
 menu = `シ︎𝘜𝘱𝘴𝘸 𝘔𝘦𝘯𝘶シ︎
-㋛${prefix}upswteks teks
+シ${prefix}upswteks teks
 
-㋛${prefix}upswvideo
+シ${prefix}upswvideo
 
-㋛${prefix}upswimage
+シ${prefix}upswimage
 
-㋛${prefix}upswvoice
+シ${prefix}upswvoice
 
-㋛${prefix}upswsticker
+シ${prefix}upswsticker
 
-㋛${prefix}upswlocation
+㋛シ${prefix}upswlocation
 `
 sendButMessage(from, menu, ` BOT`, [
           {
